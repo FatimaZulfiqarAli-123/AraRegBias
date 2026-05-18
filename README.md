@@ -3,7 +3,7 @@
 
 ---
 
-# Overview
+# Overview 
 
 AraRegBias is a research framework for evaluating **dialectal**, **semantic**, and **stereotypical bias** in Arabic Large Language Models (LLMs).
 
