@@ -1,4 +1,3 @@
-# AraRegBias
 
 ## AraRegBias: Evaluating Dialectal and Stereotypical Bias in Arabic Large Language Models via Multi-Component Metrics
 
