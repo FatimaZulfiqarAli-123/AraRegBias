@@ -178,7 +178,7 @@ ARI = MinMaxScale(Final\ Bias)
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/AraRegBias.git
+git clone https://github.com/FatimaZulfiqarAli-123/AraRegBias.git
 cd AraRegBias
 ```
 
