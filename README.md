@@ -1,5 +1,4 @@
-# AraRegBias: Evaluating Dialectal and Stereotypical Bias in Arabic Large Language Models via Multi-Component Metrics
-
+# AraRegBias: Arabic LLM Bias Evaluation Framework
 ---
 
 ## Project Overview
@@ -40,12 +39,8 @@ The project evaluates how Arabic LLMs respond to culturally sensitive and stereo
 
 You can view the full detailed research manuscript here:
 
-♦ **AraRegBias: Evaluating Dialectal and Stereotypical Bias in Arabic Large Language Models via Multi-Component Metrics**
-
-
-```text
-DOI: Coming Soon
-```
+**AraRegBias: Evaluating Dialectal and Stereotypical Bias in Arabic Large Language Models via Multi-Component Metrics**  
+DOI: [10.21203/rs.3.rs-9749593/v1](https://doi.org/10.21203/rs.3.rs-9749593/v1)
 
 ---
 
